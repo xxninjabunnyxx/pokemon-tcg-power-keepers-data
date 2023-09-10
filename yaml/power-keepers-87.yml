@@ -1,0 +1,68 @@
+---
+id: ex16-87
+name: Darkness Energy
+supertype: Energy
+subtypes:
+- Special
+rules:
+- If the Pokémon Darkness Energy is attached to attacks, the attack does 10 more damage
+  to the Active Pokémon (before applying Weakness and Resistance). Ignore this effect
+  unless the Attacking Pokémon is Darkness or has Dark in its name. Darkness Energy
+  provides Darkness Energy. (Doesn't count as a basic Energy card.)
+set:
+  id: ex16
+  name: Power Keepers
+  series: EX
+  printedTotal: 108
+  total: 108
+  legalities:
+    unlimited: Legal
+  ptcgoCode: PK
+  releaseDate: 2007/02/02
+  updatedAt: 2018/03/04 10:35:00
+  images:
+    symbol: https://images.pokemontcg.io/ex16/symbol.png
+    logo: https://images.pokemontcg.io/ex16/logo.png
+number: '87'
+artist: Milky Isobe
+rarity: Rare
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/ex16/87.png
+  large: https://images.pokemontcg.io/ex16/87_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/ex16-87
+  updatedAt: 2023/09/10
+  prices:
+    normal:
+      low: 0.24
+      mid: 0.7
+      high: 2.85
+      market: 0.79
+      directLow: 0.24
+    reverseHolofoil:
+      low: 1.94
+      mid: 3.54
+      high: 7.33
+      market: 2.31
+      directLow: 1.94
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/ex16-87
+  updatedAt: 2023/09/10
+  prices:
+    averageSellPrice: 0.64
+    lowPrice: 0.02
+    trendPrice: 0.43
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 2.47
+    reverseHoloLow: 1.4
+    reverseHoloTrend: 2.1
+    lowPriceExPlus: 0.1
+    avg1: 0.7
+    avg7: 0.45
+    avg30: 0.26
+    reverseHoloAvg1: 2.47
+    reverseHoloAvg7: 1.78
+    reverseHoloAvg30: 2.21

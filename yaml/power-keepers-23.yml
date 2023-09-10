@@ -1,0 +1,90 @@
+---
+id: ex16-23
+name: Seviper
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '70'
+types:
+- Grass
+attacks:
+- name: Sharp Fang
+  cost:
+  - Grass
+  convertedEnergyCost: 1
+  damage: '10'
+  text: ''
+- name: Toxic
+  cost:
+  - Grass
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 3
+  damage: ''
+  text: The Defending Pokémon is now Poisoned. Put 2 damage counters instead of 1
+    on the Defending Pokémon between turns.
+weaknesses:
+- type: Psychic
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: ex16
+  name: Power Keepers
+  series: EX
+  printedTotal: 108
+  total: 108
+  legalities:
+    unlimited: Legal
+  ptcgoCode: PK
+  releaseDate: 2007/02/02
+  updatedAt: 2018/03/04 10:35:00
+  images:
+    symbol: https://images.pokemontcg.io/ex16/symbol.png
+    logo: https://images.pokemontcg.io/ex16/logo.png
+number: '23'
+artist: Midori Harada
+rarity: Rare
+nationalPokedexNumbers:
+- 336
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/ex16/23.png
+  large: https://images.pokemontcg.io/ex16/23_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/ex16-23
+  updatedAt: 2023/09/10
+  prices:
+    normal:
+      low: 0.43
+      mid: 0.8
+      high: 2.99
+      market: 0.99
+      directLow: 0.39
+    reverseHolofoil:
+      low: 4.04
+      mid: 4.25
+      high: 5.23
+      market: 4.99
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/ex16-23
+  updatedAt: 2023/09/10
+  prices:
+    averageSellPrice: 0.15
+    lowPrice: 0.02
+    trendPrice: 0.28
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 2.0
+    reverseHoloLow: 0.02
+    reverseHoloTrend: 3.52
+    lowPriceExPlus: 0.23
+    avg1: 0.14
+    avg7: 0.25
+    avg30: 0.59
+    reverseHoloAvg1: 1.0
+    reverseHoloAvg7: 3.75
+    reverseHoloAvg30: 2.7
